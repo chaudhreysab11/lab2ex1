@@ -1,4 +1,4 @@
-calculator in Python(v0.3)
+calculator in Python(v0.4)
 def sqRoot(num1):
 	return num1**0.5
 def div(num1,num2):
